@@ -1,3 +1,7 @@
 add first line
 1. Fixed issue 1
+<<<<<<< HEAD
 issue 2 text
+=======
+issue3 add text
+>>>>>>> 632173c (issue 3 add text)
