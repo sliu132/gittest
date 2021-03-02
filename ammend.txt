@@ -1,2 +1,4 @@
 ammend practice
 1. First Commit
+2. Ammend
+3. Revert practice add text
