@@ -12,3 +12,9 @@ Add line 3
 Add line 4
 
 Add rebase amend
+
+
+---------------------------
+Merge squash 1
+
+
